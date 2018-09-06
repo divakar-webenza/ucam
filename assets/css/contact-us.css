@@ -1,0 +1,19 @@
+/* naseer adding for contact-us form page on june 20th*/
+/*.wpcf7 input.wpcf7-form-control{
+    width: 48%;
+    float: left;
+    margin: 1%;
+}*/
+.wpcf7 select{
+    width: 23%;
+    float: left;
+    margin: 1%;
+}
+.wpcf7 textarea{
+    margin: 1%;
+    width: 98%;
+    height: 100px;
+    resize: none;
+}
+
+/*  ends here */
